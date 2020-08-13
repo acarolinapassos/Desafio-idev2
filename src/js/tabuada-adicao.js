@@ -18,7 +18,33 @@ totalGeral += fatorMultiplicador + indice;
 console.log(`${fatorMultiplicador} + ${indice} : ${fatorMultiplicador + indice}`); //4
 indice++;
 
-//completar de 5 a 10
-console.log(totalGeral);
 
-//Complete até o 10
+
+
+// de 5 a 10
+totalGeral += fatorMultiplicador + indice;
+console.log(`${fatorMultiplicador} + ${indice} : ${fatorMultiplicador + indice}`); //5
+indice++;
+
+totalGeral += fatorMultiplicador + indice;
+console.log(`${fatorMultiplicador} + ${indice} : ${fatorMultiplicador + indice}`); //6
+indice++;
+
+totalGeral += fatorMultiplicador + indice;
+console.log(`${fatorMultiplicador} + ${indice} : ${fatorMultiplicador + indice}`); //7
+indice++;
+
+totalGeral += fatorMultiplicador + indice;
+console.log(`${fatorMultiplicador} + ${indice} : ${fatorMultiplicador + indice}`); //8
+indice++;
+
+totalGeral += fatorMultiplicador + indice;
+console.log(`${fatorMultiplicador} + ${indice} : ${fatorMultiplicador + indice}`); //9
+indice++;
+
+totalGeral += fatorMultiplicador + indice;
+console.log(`${fatorMultiplicador} + ${indice} : ${fatorMultiplicador + indice}`); //10
+indice++;
+
+
+console.log(totalGeral);
